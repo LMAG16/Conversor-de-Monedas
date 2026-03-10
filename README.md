@@ -1,4 +1,5 @@
-# 💱 Conversor de Monedas en Java
+# 💱 Conversor de Monedas en Java 
+Proyecto realizado como parte del programa Oracle Next Education - Alura Latam.
 
 Este proyecto es una aplicación de consola desarrollada en **Java** que permite convertir valores entre diferentes monedas utilizando una API externa de tasas de cambio.
 
